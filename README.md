@@ -40,7 +40,7 @@ This project simulates how an e-commerce company stores, models, and analyzes op
 Raw CSV → Pandas ETL → PostgreSQL Warehouse → Analytics (pgAdmin)
 
 ## 🗂️ Folder Structure
-
+```txt
 ecommerce-data-warehouse-project/
 ├── docker-compose.yml
 ├── db/
@@ -60,6 +60,7 @@ ecommerce-data-warehouse-project/
 │   ├── product_analysis.sql
 │   └── payment_analysis.sql
 └── README.md
+```
 
 ## 📊 Star Schema Data Model
 
