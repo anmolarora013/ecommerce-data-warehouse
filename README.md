@@ -45,7 +45,7 @@ ecommerce-data-warehouse-project/
 ├── docker-compose.yml
 ├── db/
 │   └── init/
-│       └── 01_schema.sql
+│       └── Tables_Creation.sql
 ├── data/
 │   ├── dim_customer.csv
 │   ├── dim_product.csv
@@ -53,7 +53,7 @@ ecommerce-data-warehouse-project/
 │   ├── dim_date.csv
 │   └── fact_orders.csv
 ├── etl/
-│   └── load_sample_data_pandas.py
+│   └── load_data.py
 ├── sql/
 │   ├── sales_analysis.sql
 │   ├── customer_analysis.sql
