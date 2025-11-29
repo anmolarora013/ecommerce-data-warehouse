@@ -1,0 +1,4 @@
+customer_id,customer_name,email,phone,created_date
+C001,Anmol Arora,anmol@example.com,9876543210,2024-01-15
+C002,Rohit Kumar,rohit@example.com,9876500000,2024-02-20
+C003,Priyam Sharma,priyam@example.com,9876511223,2024-03-10
