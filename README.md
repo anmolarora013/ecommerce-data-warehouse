@@ -53,7 +53,7 @@ ecommerce-data-warehouse-project/
 │   ├── dim_date.csv
 │   └── fact_orders.csv
 ├── etl/
-│   ├── load_sample_data_pandas.py
+│   └── load_sample_data_pandas.py
 ├── sql/
 │   ├── sales_analysis.sql
 │   ├── customer_analysis.sql
